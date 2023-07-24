@@ -10,9 +10,15 @@ The only version that has had the mirroring performed is the [rev5](hardware-rev
 [rev5](hardware-rev5)
 ---------------------
 case dimensions | 218x126x10mm
+
 compatibility (using provided firmware) | PC, PS3
+
 add-on board | [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
-onboard chip | RP2040 | -
+
+onboard chip | RP2040 
+
 port | USB-C
+
 SMT assembly required | no
+
 firmware | [RP2040](firmware-rp2040)
