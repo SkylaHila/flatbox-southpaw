@@ -23,7 +23,7 @@ The switches can be soldered in directly to the PCB or you can use hotswap socke
 
 You don't have to use the [code](../firmware-rp2040) included here, you can use any other RP2040-compatible firmware. The included firmware works with the PS3 and PC.
 
-To flash the firmware, connect the board to a computer with a USB cable, then press the RESET button while holding the BOOT button on the RP2040-Zero. A drive named "RPI-RP2" should appear. Copy the [flatbox-rev5.uf2](firmware/flatbox-rev5.uf2) file to that drive. That's it.
+To flash the firmware, connect the board to a computer with a USB cable, then press the RESET button while holding the BOOT button on the RP2040-Zero. A drive named "RPI-RP2" should appear. Copy the [flatbox-rev5-southpaw.uf2](firmware/flatbox-rev5-southpaw.uf2) file to that drive. That's it.
 
 ![Flatbox rev5 unpopulated PCB](images/flatbox-southpaw-pcb.PNG)
 
