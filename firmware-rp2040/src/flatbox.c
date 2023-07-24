@@ -69,18 +69,18 @@ int stickMode = 0;              // 0 = dpad, 1 = left stick
 #define PIN_LEFT      13
 #define PIN_RIGHT     11
 #define PIN_CROSS     9
-#define PIN_CIRCLE    7
-#define PIN_TRIANGLE  6
+#define PIN_CIRCLE    15
+#define PIN_TRIANGLE  26
 #define PIN_SQUARE    8
-#define PIN_L1        2
-#define PIN_L2        3
-#define PIN_R1        4
-#define PIN_R2        5
-#define PIN_SELECT    27
-#define PIN_START     29
-#define PIN_L3        14
-#define PIN_R3        26
-#define PIN_PS        28
+#define PIN_L1        29
+#define PIN_L2        14
+#define PIN_R1        28
+#define PIN_R2        27
+#define PIN_SELECT    2
+#define PIN_START     3
+#define PIN_L3        4
+#define PIN_R3        5
+#define PIN_PS        6
 
 #endif
 
