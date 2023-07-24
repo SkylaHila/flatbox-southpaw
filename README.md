@@ -1,4 +1,4 @@
-# Flatbox: Low profile hitbox-layout fightstick
+# Flatbox-southpaw: Rev5 Flatbox with mirrored case and rerouted PCB for left handed players!
 
 This repository contains 3D-printable models, PCB design files and code needed to make an arcade controller that looks like this:
 
