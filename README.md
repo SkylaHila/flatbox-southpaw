@@ -1,6 +1,7 @@
 # Flatbox-southpaw: Rev5 Flatbox with mirrored case and rerouted PCB for left handed players! WIP!
 
-WIP Update: Case and PCB are here and alignment can be confirmed, Functionality still not confirmed but everything should be completed later this week.
+Controller is finished and 100% confirmed working! 
+
 This repository contains 3D-printable models, PCB design files and code needed to make an arcade controller that looks like this:
 
 ![Assembled Flatbox](hardware-rev5/images/flatbox.PNG)
