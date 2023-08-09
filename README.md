@@ -1,4 +1,4 @@
-# Flatbox-southpaw: Rev5 Flatbox with mirrored case and rerouted PCB for left handed players! WIP!
+# Flatbox-southpaw: Rev5 Flatbox with mirrored case and rerouted PCB for left handed players!
 
 Controller is finished and 100% confirmed working! 
 
