@@ -21,9 +21,11 @@ The PCB can be ordered from a number of online services using the included [Gerb
 
 The switches can be soldered in directly to the PCB or you can use hotswap sockets. If you want to use hotswap sockets, you will have to print the appropriate bottom part of the case (it's 1mm thicker).
 
-You don't have to use the [code](../firmware-rp2040) included here, you can use any other RP2040-compatible firmware. The included firmware works with the PS3 and PC.
+We recommend using the firmware available at https://gp2040-ce.info/#/download for the controller, alongside the config backup file that is in the firmware folder. 
 
-To flash the firmware, connect the board to a computer with a USB cable, then press the RESET button while holding the BOOT button on the RP2040-Zero. A drive named "RPI-RP2" should appear. Copy the [flatbox-rev5-southpaw.uf2](firmware/flatbox-rev5-southpaw.uf2) file to that drive. That's it.
+To flash the firmware, connect the board to a computer with a USB cable, then press the RESET button while holding the BOOT button on the RP2040-Zero. A drive named "RPI-RP2" should appear. Copy the firmware to the drive, wait for it to finish uploading, and then after a few seconds, unplug the RP2040-Zero. 
+
+Once the firmware is flashed, short S2 to ground and plug the RP2040-Zero in while they are shorted. Go to the web configurator available at http://192.168.7.1/ go to config and then backup and restoration. Upload the backup config to the firmware to have all of the buttons assigned properly and make the controller fully functional. 
 
 ![Flatbox rev5 unpopulated PCB](images/flatbox-southpaw-pcb.PNG)
 
