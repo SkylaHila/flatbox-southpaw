@@ -4,7 +4,7 @@ Controller is finished and 100% confirmed working!
 
 This repository contains 3D-printable models, PCB design files and code needed to make an arcade controller that looks like this:
 
-![Assembled Flatbox](hardware-rev5/images/flatbox.PNG)
+![Assembled Flatbox](hardware-rev5/images/Flatbox-Southpaw.jpg)
 
 The only version that has had the mirroring performed is the [rev5](hardware-rev5)
 
