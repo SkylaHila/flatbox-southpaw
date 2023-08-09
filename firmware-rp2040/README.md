@@ -1,6 +1,3 @@
-This is code for a USB arcade controller, meant to be used with RP2040-based boards.
+For the config, I highly recommend downloading the GP2040-CE firmware for the RP2040-Zero available at https://gp2040-ce.info/#/download
 
-It works with Flatbox [rev4](../hardware-rev4) and [rev5](../hardware-rev5). Precompiled binaries are included.
-
-
-This code has not been updated for the southpaw layout, only the UF2 file has.
+The config backup file is available in this directory, so all you need to do to get the firmware up and running is to short GP1/S2 to GND as the board gets plugged into your computer, and then going to http://192.168.7.1/ to access the web configurator, going to config, then data backup and restoration, and restoring the config from the file in this directory. 
